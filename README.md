@@ -30,5 +30,13 @@ https://codepen.io/gyurrcibacsi/pen/VdLNWQ
 https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies
 
 #### _Describe the difference between <script>, <script async> and <script defer>._ ####
-  https://www.quora.com/What-is-the-difference-between-DEFER-and-ASYNC-attributes-on-a-resource-in-html
+https://www.quora.com/What-is-the-difference-between-DEFER-and-ASYNC-attributes-on-a-resource-in-html
+  
+ #### _Why is it generally a good idea to position CSS <link>s between <head></head> and JS <script>s just before </body>? Do you know any exceptions?_ ####
+
+You usually put the ``<link>`` tags in between the <head> to prevent Flash of Unstyled Content which gives the user something to look at while the rest of the page is being parsed.
+
+Since Javascript blocks rendering by default, and the DOM and CSSOM construction can be also be delayed, it is usually best to keep scripts at the bottom of the page.
+
+Exceptions are if you grab the scripts asynchronously, or at least defer them to the end of the page.
 
