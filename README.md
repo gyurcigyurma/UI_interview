@@ -9,6 +9,9 @@ However, these days no one really cares about them, and they are really just a h
 
 Source: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
+Notes: should be there for a valid html and without it the browser enters "quirks" mode and you can face crazy things.
+https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode
+
 
 #### _How do you serve a page with content in multiple languages?_ ####
 
