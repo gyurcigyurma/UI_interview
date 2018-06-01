@@ -16,3 +16,11 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode
 #### _How do you serve a page with content in multiple languages?_ ####
 
 https://www.youtube.com/watch?v=u5i_dnqj43w 
+
+#### _What kind of things must you be wary of when design or developing for multilingual sites?_ ####
+
+https://www.quora.com/What-kind-of-things-one-should-be-wary-of-when-designing-or-developing-for-multilingual-sites
+
+#### _What are data- attributes good for?_ ####
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes
+https://codepen.io/gyurrcibacsi/pen/VdLNWQ
