@@ -40,3 +40,6 @@ Since Javascript blocks rendering by default, and the DOM and CSSOM construction
 
 Exceptions are if you grab the scripts asynchronously, or at least defer them to the end of the page.
 
+#### _What is progressive rendering?_ ####
+#### _Why you would use a srcset attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute._ ####
+#### _Have you used different HTML templating languages before?_ ####
