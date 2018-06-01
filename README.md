@@ -24,3 +24,8 @@ https://www.quora.com/What-kind-of-things-one-should-be-wary-of-when-designing-o
 #### _What are data- attributes good for?_ ####
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes
 https://codepen.io/gyurrcibacsi/pen/VdLNWQ
+
+#### _Describe the difference between a cookie, sessionStorage and localStorage_ ####
+
+https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies
+
