@@ -29,3 +29,6 @@ https://codepen.io/gyurrcibacsi/pen/VdLNWQ
 
 https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies
 
+#### _Describe the difference between <script>, <script async> and <script defer>._ ####
+  https://www.quora.com/What-is-the-difference-between-DEFER-and-ASYNC-attributes-on-a-resource-in-html
+
