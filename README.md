@@ -43,7 +43,7 @@ Exceptions are if you grab the scripts asynchronously, or at least defer them to
 #### _What is progressive rendering?_ ####
 #### _Why you would use a srcset attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute._ ####
 #### _Have you used different HTML templating languages before?_ ####
-#### _How prototypical inhertitance working? What is the differences between _.prototype, .__proto__ and [[Prototype]]?_ ####
+#### _How prototypical inhertitance working? What is the differences between ``_.prototype, .__proto__`` and ``[[Prototype]]``?_ ####
 http://www.javascripttutorial.net/javascript-prototype/
 
 
