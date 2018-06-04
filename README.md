@@ -45,5 +45,6 @@ Exceptions are if you grab the scripts asynchronously, or at least defer them to
 #### _Have you used different HTML templating languages before?_ ####
 #### _How prototypical inhertitance working? What is the differences between ``_.prototype, .__proto__`` and ``[[Prototype]]``?_ ####
 http://www.javascripttutorial.net/javascript-prototype/
+https://hackernoon.com/understand-nodejs-javascript-object-inheritance-proto-prototype-class-9bd951700b29
 
 
