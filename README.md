@@ -31,6 +31,7 @@ https://stackoverflow.com/questions/19867599/what-is-the-difference-between-loca
 
 #### _Describe the difference between <script>, <script async> and <script defer>._ ####
 https://www.quora.com/What-is-the-difference-between-DEFER-and-ASYNC-attributes-on-a-resource-in-html
+https://javascript.tutorialhorizon.com/2015/08/11/script-async-defer-attribute/
  ###### Normal execution <script> ######
 This is the default behavior of the <script> element. Parsing of the HTML code pauses while the script is executing. For slow servers and heavy scripts this means that displaying the webpage will be delayed.
 ###### Deferred execution <script defer> ######
