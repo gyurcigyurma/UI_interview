@@ -74,4 +74,13 @@ Delegation, on the other hand, involves only a portion of the contract. With del
 
 In both assignment and delegation, there is an obligor. The obligor is the other original party to the contract and is obligated to do something under the terms of the contract. In our scenario, you are the obligor. You're obligated to pay me once I finish your kitchen.
 
+#### _Functional programming key questions_ ####
+* Are my functions **dependent on the context** in which they are called, **or are they pure and independent**?
+* Can I write these functions in such a way that I could depend on them always **returning the same result for a given input**?
+* Am I sure that my functions don’t **modify anything outside** of themselves?
+* If I wanted to use these functions **in another program, would I need to make changes** to them?
+
+Functional programming refers to the ability to treat functions as values.
+• we can combine two function values to produce a new function
+• we can combine a function value and a data value to produce a new data
 
